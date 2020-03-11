@@ -1,4 +1,3 @@
-```javascript
 black       = '#000000';
 red         = '#F25A00'; // red
 green       = '#6AAF19'; // green
